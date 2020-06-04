@@ -1,2 +1,4 @@
 # Machine-Learning8
-Machine Learning with Python
+Machine Learning with Python.
+-----------------------------
+Data Visualization with Matplotlib.
